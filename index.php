@@ -7,6 +7,9 @@
 </head>
 <body>
     <h1>Mencoba Remote php</h1>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus molestias quia impedit, deleniti nemo omnis incidunt sapiente modi voluptas, doloremque et esse quaerat. Ipsum, excepturi iure! Sunt aperiam voluptatem id.
+    </p>
     
 </body>
 </html>
