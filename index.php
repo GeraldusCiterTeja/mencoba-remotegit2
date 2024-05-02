@@ -10,6 +10,12 @@
 
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus molestias quia impedit, deleniti nemo omnis incidunt sapiente modi voluptas, doloremque et esse quaerat. Ipsum, excepturi iure! Sunt aperiam voluptatem id.
     </p>
+    <ul>
+        <li>aman</li>
+        <li>sejahtera</li>
+        <li>setosa</li>
+        <li>Makmur</li>
+    </ul>
     
 </body>
 </html>
